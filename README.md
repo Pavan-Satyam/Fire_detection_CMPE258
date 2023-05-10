@@ -3,9 +3,9 @@ The project aims to detect the presence of fire in a given image using neural ne
 # DataSet
 we used data set of images containing Fire and Non Fire images.URL:
 # Methods:
-InceptionNet_v3
-EfficientNet_B0
-EfficientNet_B7
-MobileNet_v2
-ResNet
-Custom Deep CNN
+-InceptionNet_v3
+-EfficientNet_B0
+-EfficientNet_B7
+-MobileNet_v2
+-ResNet
+-Custom Deep CNN
